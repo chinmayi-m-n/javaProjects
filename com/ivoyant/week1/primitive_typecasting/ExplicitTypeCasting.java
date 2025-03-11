@@ -9,6 +9,7 @@ public class ExplicitTypeCasting {
         //b=i; creates compile time error due to dataloss
         b=(byte)i;//explicitly typecasting int to byte
         System.out.println(b);
+
         //value printed according to cyclic property
     }
 }
