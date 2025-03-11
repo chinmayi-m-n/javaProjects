@@ -4,7 +4,9 @@ class Computer{
     public void code(){
         System.out.println("coding.....");
     }
+
 }
+
 class Laptop extends Computer{
     public void code(){
         System.out.println("coding in laptop...");
