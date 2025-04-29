@@ -1,4 +1,6 @@
-public class labelledBreak {
+package com.ivoyant.week1.labeeled_break;
+
+public class LabelledBreak {
     public static void main(String[] args) {
         label_name:
         for(int i=1;i<=4;i++){

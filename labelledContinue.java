@@ -1,1 +1,0 @@
-public class labelledContinue {    public static void main(String[] args) {        labelName:        for(int i=1;i<=5;i++){            for(int j=1;j<=5;j++){                if(i==3)continue labelName;                System.out.println(i);            }        }    }}
